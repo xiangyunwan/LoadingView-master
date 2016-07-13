@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="appleviewlib-0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ldoublem.appleviewlib/appleviewlib/0.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ldoublem.appleviewlib/appleviewlib/0.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/gradle-2.10/caches/modules-2/files-2.1/com.ldoublem.appleviewlib/appleviewlib/0.0.1/d25d8fdb614d9988be1607f62f3a0f4313211dba/appleviewlib-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
